@@ -1,7 +1,6 @@
 import express from "express";
 
 import avaliaDesempenho from "./service/service.js";
-import { error } from "console";
 
 const app = express();
 
